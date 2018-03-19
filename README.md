@@ -1,7 +1,7 @@
 # CampgroundConnect
 A fully functional node.js web app with a mongoDB backend, RESTful routes, user authentication, authorization, and a frontend of HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
-You can sign up and your login is stored in the database while your password is encrypted then stored wish it's hash.
+You can sign up and your login is stored in the database while your password is encrypted then stored with its hash.
 
 You can create a new campground, edit the campground you create, or delete it from the database.
 
